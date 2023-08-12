@@ -5,4 +5,4 @@ In each project folder, you'll find the instructions for the assigned project as
 
 Per course requirements, these projects were developed using Java 8. I've experimented with different IDEs for different projects throughout this course; I've started off with using Visual Studio Code and IntelliJ IDEA CE before settling with Eclipse towards the second half of the semester (starting in Project 3).
 
-Especially since this course is where I've first utilized Java, expect some syntactical or logical flaws in some, or not, all of these projects.
+Especially since it wasn't until this course where I first starting coding in Java, expect some syntactical or logical flaws in some, or not, all of these projects.
