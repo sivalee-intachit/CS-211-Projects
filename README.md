@@ -3,4 +3,4 @@ This repository stores various projects that I've completed throughout my Object
 
 Especially since this course is where I've first utilized Java, there'll be a lot of 'naive' techniques that are used especially throughout the earlier projects that I've completed. Expect some syntactical or logical flaws in some, or not, all of these projects.
 
-Per course requirements, these projects were developed using Java 8. I've experimented with different IDEs for different projects throughout this course; I've started off with using Visual Studio Code and IntelliJ IDEA CE before settling with Eclipse towards the second half of the semester.
+Per course requirements, these projects were developed using Java 8. I've experimented with different IDEs for different projects throughout this course; I've started off with using Visual Studio Code and IntelliJ IDEA CE before settling with Eclipse towards the second half of the semester (starting in Project 3).
