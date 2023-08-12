@@ -1,4 +1,4 @@
-# CS-211
+# CS-211-Projects
 This repository stores the projects that I've completed throughout my Object Oriented Programming course at GMU (CS 211, Spring 2023) in order to exhibit the progress I've made as a developer. This not only includes my understanding of Java/Object Oriented Programming principles but also my ability to develop solutions for various scenarios and to persevere with development regardless of the task's difficulty. 
 
 In each project folder, you'll find the instructions for the assigned project as well as a sub-folder which holds the source code for the corresponding project.
